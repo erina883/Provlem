@@ -1,3 +1,7 @@
+
+1.Write a program to check if two binary trees are identical.
+
+
 Binary Trees first provlem:
 
 
