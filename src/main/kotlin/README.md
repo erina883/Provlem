@@ -1,4 +1,4 @@
-Binary Trees first problem:
+Binary Trees first provlem:
 
 
 ![Screenshot_2](https://github.com/erina883/Provlem/assets/61052816/51172822-dee1-442c-8c88-be0d3545f9e3)
@@ -61,7 +61,7 @@ fun binaryTreeIsSame(tree1: BinaryTree?, tree2: BinaryTree?): Boolean{
 
 
 
-Binary Trees second problem:
+Binary Trees second provlem:
 
 
 ![Screenshot_3](https://github.com/erina883/Provlem/assets/61052816/d10d729d-c849-4f81-9252-ebb330ddc6e7)
@@ -118,7 +118,7 @@ fun binaryTreeIsSame(tree1: BinaryTree?, tree2: BinaryTree?): Boolean{
 }
 
 
-Binary Trees third problem:
+Binary Trees third provlem:
 
 ![Screenshot_4](https://github.com/erina883/Provlem/assets/61052816/52ea65e6-3550-419f-a049-fec822786543)
 
